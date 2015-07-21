@@ -1,0 +1,17 @@
+{
+    "name": "chrome-smooth-scroll",
+    "version": "0.0.1",
+    "main": "smooth-scroll.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+}
